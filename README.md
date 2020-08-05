@@ -10,6 +10,8 @@
 입력을 마치고 나면 출발 시간과 비행 시간에 따른 도착시간이 계산되고, 좌석에 따른 가격이 표시된다. 그리고 -1을 입력하면 메뉴로 돌아간다.
 다음 그림은 항공 예약 흐름도다.
 
+![img1](https://user-images.githubusercontent.com/15210906/89439547-51219900-d785-11ea-95c3-a3c949b46be3.png)
+
 - <strong>항공 예약 취소</strong>  
 항공 예약 취소는 항공 예약번호 입력을 통해서 이루어진다. 사용자가 예약번호를 입력하면 그 예약번호에 해당하는 정보가 지워지고 예약이 취소되었다는 문구가 뜬다.
 
@@ -18,3 +20,10 @@
 
 
 ## UI
+
+![ui1](https://user-images.githubusercontent.com/15210906/89439612-68f91d00-d785-11ea-90e6-5ac8179efad2.jpg)
+![ui2](https://user-images.githubusercontent.com/15210906/89439623-6d253a80-d785-11ea-9262-21972601871a.png)
+![ui3](https://user-images.githubusercontent.com/15210906/89439626-6dbdd100-d785-11ea-806f-6f651f90cfb9.jpg)
+![ui4](https://user-images.githubusercontent.com/15210906/89439628-6e566780-d785-11ea-876f-5d47a43f918a.jpg)
+![ui5](https://user-images.githubusercontent.com/15210906/89439630-6e566780-d785-11ea-94c6-751c7442eb01.jpg)
+![ui6](https://user-images.githubusercontent.com/15210906/89439631-6eeefe00-d785-11ea-93b2-beb4d6668b08.jpg)
