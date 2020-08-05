@@ -4,6 +4,10 @@
 
 ## 사용 가능한 기능
 
+<ol>항공 예약</ol>
+<ol>항공 예약 취소</ol>
+<ol>항공 조회</ol>  
+
 1) 항공 예약  
 이름(cnt.name),출발지(cnt.source), 도착지(cnt.destination), 출발 날짜(cnt.sdate), 출발 시간(timeString) 좌석 선택을 입력하는 칸으로 넘어간다.
 좌석 선택은 총 3가지를 할 수 있는데 총 3 종류(prestige, business, economy)를 사용자가 입력할 수 있다.
