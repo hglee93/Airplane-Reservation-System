@@ -21,25 +21,27 @@
 
 ## UI
 
-해당 시스템은 메뉴화면(MenuPage), 예약화면(ReservationPage), 예약취소화면(ReservationCanclePage),항공편선택(FlightListPage),좌석 선택(SeatInfoPage), 예약완료(ReservationCompletedPage), 예약 조회와 같이 총 6개의 페이지로 구성되어있다. 
+해당 시스템은 메뉴화면(MenuPage), 예약화면(ReservationPage), 예약취소화면(ReservationCanclePage),항공편선택(FlightListPage),좌석 선택(SeatInfoPage), 예약완료(ReservationCompletedPage), 예약 조회와 같이 총 6개의 페이지로 구성되어있다.  
 
-- <strong>메뉴 화면</strong>  
+<strong>관련 소스</strong>  
+
+<strong>메뉴 화면</strong>  
   
 ![ui1](https://user-images.githubusercontent.com/15210906/89439612-68f91d00-d785-11ea-90e6-5ac8179efad2.jpg)  
   
-- <strong>항공편 조회</strong>  
+<strong>항공편 조회</strong>  
   
 ![ui2](https://user-images.githubusercontent.com/15210906/89439623-6d253a80-d785-11ea-9262-21972601871a.png)  
   
-- <strong>항공편 선택</strong>  
+<strong>항공편 선택</strong>  
   
 ![ui3](https://user-images.githubusercontent.com/15210906/89439626-6dbdd100-d785-11ea-806f-6f651f90cfb9.jpg)  
   
-- <strong>좌석 선택</strong>  
+<strong>좌석 선택</strong>  
   
 ![ui4](https://user-images.githubusercontent.com/15210906/89439628-6e566780-d785-11ea-876f-5d47a43f918a.jpg)  
   
-- <strong>예약 완료</strong>  
+<strong>예약 완료</strong>  
   
 ![ui5](https://user-images.githubusercontent.com/15210906/89439630-6e566780-d785-11ea-94c6-751c7442eb01.jpg)  
   
