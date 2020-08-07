@@ -2,6 +2,7 @@
 
 26개의 도시(a ~ z)에 대하여 항공편에 대한 정보를 제공한다는 가정하에 최단 거리 알고리즘을 이용하여 도시 간의 최단 거리를 기반으로 최적의 항공편 예약 기능을 제공하는 것을 목표로 한다. 또한, 효율적인 데이터 저장을 위해 Red-Black Tree를 이용하여 예약 정보를 저장하여 시스템의 효율을 증가하는 것을 목표로 한다.
   
+  
 ## 사용 가능한 기능
 
 - <strong>항공 예약</strong>  
@@ -21,7 +22,14 @@
 
 ## UI
 
-해당 시스템은 메뉴화면(MenuPage), 예약화면(ReservationPage), 예약취소화면(ReservationCanclePage),항공편선택(FlightListPage),좌석 선택(SeatInfoPage), 예약완료(ReservationCompletedPage), 예약 조회와 같이 총 6개의 페이지로 구성되어있다.  
+해당 시스템은 총 6개의 페이지로 구성되어있다.
+- 메뉴화면(MenuPage)
+- 예약화면(ReservationPage)
+- 예약취소화면(ReservationCanclePage)
+- 항공편선택(FlightListPage)
+- 좌석 선택(SeatInfoPage)
+- 예약 완료(ReservationCompletedPage)
+- 예약조회 화면 
 
 ### 관련 소스
   
